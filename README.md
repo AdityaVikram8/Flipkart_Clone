@@ -1,4 +1,4 @@
-<!-- this is the detailed project description.-->
+<!-- Here is the detailed description of the project. -->
 <div align="center">
   <h1 style="font-size: 36px; font-weight: bold;">Flipkart_Clone</h1>
   
